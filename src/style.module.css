@@ -1,0 +1,9 @@
+.list {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px grey;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  background: rgb(231, 238, 231);
+  align-items: center;
+}
